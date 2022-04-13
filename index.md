@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SUMONGUS
 
 You can use the [editor on GitHub](https://koolkidz.pee) to maintain and preview the content for your website in Markdown files.
 
